@@ -16,7 +16,7 @@ Use only positive numbers.
 <h2>Authors</h2>
 This contract of making token is done by Nisha.
 <h2>License</h2>
-This project is licensed under 
+This project is licensed under the [Nisha] license-see the LICENSE.md file for details.
 
 
 
